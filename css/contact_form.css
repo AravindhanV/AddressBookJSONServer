@@ -54,7 +54,6 @@ body {
 
 .form-content {
   margin-top: 45px;
-  min-height: calc(100%-80px);
   display: flex;
   justify-content: center;
   align-items: center;
